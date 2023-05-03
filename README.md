@@ -1,4 +1,3 @@
-```markdown
 # Bundesliga Web Scraping
 
 This script performs web scraping on the Bundesliga website to extract the league table data.
